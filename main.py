@@ -4,7 +4,7 @@ import pandas as pd
 
 
 data = {
-  "calories": [420, 380, 390],
+  "calories": [420, 380, 390,44,75],
   "duration": [50, 40, 45,62,66]
 }
 
